@@ -5,7 +5,7 @@
 # 
 # The purpose of this program is to demonstrate that genetic information
 # is not and cannot be generated randomly. Randomly generated genes contain
-# too many stop codons, resulting in tiny, useless chains of amino acids. 
+# too many stop codons, resulting in tiny, useless proteins. 
 # 
 # Maxwell Sherman
 
