@@ -9,10 +9,13 @@ for line in infile:
     aminoAcids[inCodon] = inAmino 
 
 infile.close()
-infile = open("ALDH.txt", "r")
+#infile = open("ALDH.txt", "r")
+infile = open("random-gene.txt", "r")
+outfile = open("protein.txt", "w+")
 
 nucleotides = infile.readline()
 nucleotides = nucleotides[:-1]
 for i in range(0, len(nucleotides), 3):
     translateCodon = nucleotides[i:i + 3]
-    print aminoAcids[translateCodon]
+    outfile.write(aminoAcids[translateCodon])
+print "Written to protein.txt"
