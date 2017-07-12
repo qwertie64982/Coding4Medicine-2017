@@ -1,3 +1,12 @@
+# SUMMARY
+# This program reads states.txt into a dictionary
+# and converts user input state abbreviations into full names. 
+# 
+# The purpose of this program is to practice using files and
+# dictionaries. 
+# 
+# Maxwell Sherman
+
 infile = open("states.txt", "r")
 states = dict()
 

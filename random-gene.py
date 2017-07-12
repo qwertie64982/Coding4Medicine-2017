@@ -1,3 +1,14 @@
+# SUMMARY
+# This program takes a user input number, makes it divisible by 3,
+# and generates that number of random nucleotides, which are written
+# to random-gene.txt. 
+# 
+# The purpose of this program is to demonstrate that genetic information
+# is not and cannot be generated randomly. Randomly generated genes contain
+# too many stop codons, resulting in tiny, useless chains of amino acids. 
+# 
+# Maxwell Sherman
+
 import random
 
 length = int(raw_input("Length of generated string: "))
