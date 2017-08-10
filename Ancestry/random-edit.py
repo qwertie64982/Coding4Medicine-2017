@@ -1,3 +1,13 @@
+# SUMMARY
+#
+# This program opens a gene file and alters the user-defined
+# number of genes. It writes the changed gene to another file.
+#
+# The purpose of this program is to aid in an experiment where
+# one must segregate people by ancestry by analyzing their genes.
+# 
+# Maxwell Sherman
+
 from random import randint
 
 file = open("south-america", "r")
