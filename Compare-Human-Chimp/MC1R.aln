@@ -1,0 +1,506 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+Human           TGCAGCTGAGCCTACTTCCAATGACCGTGAGATCTGAAAGACTGTTTTGAGGGCGTAGCC
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           TCTGCCATGATTGTGGGGAATGCTGTCCTGTTTCCTCCCTTGGCCCTGCTCAGCCCAGCG
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           AGAGGCTGAGGCGCACGTGGCTCCCCGGGTGCCCACAGGCAGCGTGGCTCACCAGCCGGG
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           CCCTTTTCCACTGAGCCAGAACCCCCCAAAGCCTTCAATGCAGGCACCACGGTGAGCCCA
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           CGAGAAACCCTGCTTGCCACCTCCCACACCCCCACCCCCAAGTTCAAAGGAAATGGTCCC
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           TGAACCAAGGGCTGAGATCAGCTGTGGGTCCAGCTGTCCTGGGGAGCTGTACTGGAGCCC
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           ACCACGGTGGGACTGTTGGTCCGGCGGTGACCCCCACCTCCATGTCTGTGGCCGCAGCTG
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GACAGGCCACTCCCTGGGCCACAGAGATGTTTTACCTCTCGCAGCCCTCGGGCACACATT
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GAGCAGATGTGTGTGTGTGTGCGTGTGTGGGTGGGTGCGCATTTGTGTGTGCCTGTGTGT
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GTGCGCATGTGGTGTGGGTGCACGTGTGTGCACGTGTGTGGGTAAACATTGTGTGTGCGC
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           ATACGTGTGTGGGTAAACATTTGTATGTGCACGCGTGTGTGGGTAAACGTGTGTGCGCAC
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GTATGTATGTGTGTACATTTGTATGTGTGTACATTTGTATGCATGTGTGCCTGTGTGTGT
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GTGCCTGTGTGTGTGGGTGCACATTTGTGTGTGTGTGTGTGCCTGTGTGTGTGTGTGCAC
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GTATGTATGTGTGCACACTTGTATGCATGTGTGCCTGTGTGTGTGGGTGCACATTTGTGT
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GTGTGTGCCTGTGTGTGTGGGTGCACATTTGTGTGTGTGGGTGCACATTTGTGTGTGTGT
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GCGCCTGTGTGGGTGCACATTTGTGTGTGTGTGTGCCTGTGTGTGTGCCTGTGTGTGTGG
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GTGCCTGTGTGTGTGGGGCACATTTGTGTGTGTGTGTGCCTGTGTGTGGGTGCACATTTG
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           TGTGTGTGCCTCTGTGTGTGTGCCTGTGTGTGGGGGTGCACATTTGTGTGTGCGCCTGTG
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           TGTGGGGGTGCACATTTGTGTGTGCGCCTGTGTGTGTGGGTGCACATTTGTGTGTGTGTG
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           CGCCTGTGTGTGTGGGTGCCTGTGTGTGTGTGGGGCACATTTGTGTGTGTGTGTGTGCCT
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GTGTGTGGGTGCACATTTGTGTGTGTGCCTGTGTGTGTGTGCCTGTGTGTGGGGGTGCAC
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           ATTTGTGTGTGTGTGTGCCTGTGTGTGGGGGTGCACATTTGTGTGTGTGTGTGCCTGTGT
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GTGTGGGTGCACATTTGTGTGTGTGTGTGCCTGTGTGTGTGGGTGCACATTTGTGTGTGT
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GTGCCTGTGTGTGTGGGTGCACATTTGTGTGTGTGTGTGCCTGTGTGTGTGGGTGCACAT
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           TTGTGTGTGTGCCTGTGTGTGGGTGCACATTTGTGTGTGTGTGCCTGTGTGTGTGTGCCT
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GTGTGTGTGGGTGCACATTTGTGTGTGTGTGTGCCTGTGTGTGTGGGTGCACATTTGTGT
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GTGTGTGTGTGCCTGTGTGTGTGTTGCAGGCCCTGGATGCCAGACACTGAATAAACGCAG
+Chimp           -------------------------GCAGGCCCTGGATGCCAGACACTGAATAAACGCAG
+                                         ***********************************
+
+Human           GAAGACGTCTGTCTTCATTCTCCTCGTGGGTCGCTGGTCCAGAAACACCTGGATGGAAAG
+Chimp           GAAGACGTCTGTCTTCATTCTCCTCGTGGGTCGCTGGTCCAGAAACACCTGGGTGGAAAG
+                **************************************************** *******
+
+Human           TGCTCTGCAGGAACGGTGCCTCTGCCTGTGGCGGGGACCCTGGTGAGCGGATGGGCCAGC
+Chimp           TGCTCTGCAGGAACGGTGCCTCTGCCTGTG-------CCCTGGTGAGCGGATGGGCCAGC
+                ******************************       ***********************
+
+Human           CCCACGTGTCTTCCGGCCACTCAGCATGCAGTGTTTCCAGGGGCACTAAGAGACCAAAAT
+Chimp           CCCACGTGTCTTCCGGCCACTCAGCATGCAGTGTTTCCAGGGGCACTAAGAGACCAAAAT
+                ************************************************************
+
+Human           CGAGATATGATTAG--CTGTAGGATGTCATCTAATCACAGATCATCCCGAGGCTAATTTA
+Chimp           CGAGATATGATTAGCTCTGTAGGATTTCATCTAATCACAGATCATCCCGAGGCTAATTTA
+                **************  ********* **********************************
+
+Human           TCTCCCCCATGACCATAACACATCAAAAAGTTGACTTTTTGCAGCTCGGCTGTGCCTCAT
+Chimp           TCTCCCCCATGACCATAACGCATCAAAAAGTTGACTTTTTGCAGCTCGGCTGTGCCTCAT
+                ******************* ****************************************
+
+Human           CTTCCCACGAAGCCCCGACAGGCACATCCAGTGAGGAACCACAGTGGGAGTCCTGTGGCA
+Chimp           CTTCCCACGAAGCCCCGACAGGCACATCCAGTGAGGAACCACAGTGGGAGTCCTGTGGCA
+                ************************************************************
+
+Human           GGGTCACCCCACTTCCGATGCCCTCCAGCTGCATCTTGGCACGAAAAAGGCTGCCCAGTT
+Chimp           GGGTCACCCCACTTCCGATGCCCTCCAGCTGCATCTTGGCAGGAAAAAGGCTGCCTAGTT
+                ***************************************** ************* ****
+
+Human           CTCATGCCCTTTCAAGTCCCGGGCTGGGGGGTAGCAGTGGAGGCTGGGGTTAACCGCCGT
+Chimp           CTCATGCCCTTTCAAGTCCCGGGCTGGGGGGTAGCAGTGGAGGCTGGGGTTAACCGCCGT
+                ************************************************************
+
+Human           CCGTCTCAAAGGCCTCATTGTGGAGCTGCAAACACGAACGTCCTTGAAATGTGAGGGGAC
+Chimp           CCGTCTCAAAGGCCTCATTGTGGAGCTGCAAACACGAACGTCCTCGAAATGTGAGGGGAC
+                ******************************************** ***************
+
+Human           AGTGCTCTGGGGCAGGGGCTGCTCACTGGTTCATGGCCAGAGGTGAGCGGGCTCTGGGTC
+Chimp           AGTGCTCTGGGGCAGGGGCTGCTCCCCGGCTCATGGCCAGAGGTGAGCGGGGTCTGGGAC
+                ************************ * ** ********************* ****** *
+
+Human           TGGGTCTGTGAGGTGCTGTGGACGTCGGGGGTGCTCCTGGGGCAGGGACACAGCCACGGC
+Chimp           TGGGTCTGTGAGGTGCTGTGGACGTCGGGGG-GCTCCTGTGGCAGGGACACAGCCACGGC
+                ******************************* ******* ********************
+
+Human           CCTCACACCAGTGGAGCCGTCTTCCTTCCCGAGGCAGAGGCTTGGCCTTCTCACACCTTG
+Chimp           CCTCACACCAGTGGAGCCGTCTTCCTTCCCGAGGCAGAGGCTTGGCCTTCTCACACCTTG
+                ************************************************************
+
+Human           GGACCCTTCTCTCCCCTGTGCTCATGCTGGAAGCACAGCGTGAGGGGGCAAAGGTCATGG
+Chimp           GGACCCTTCTCTCCCCTGTGCTCATGCTGGAAGCACAGCGTGAGGGGGCAAAGGTCATGG
+                ************************************************************
+
+Human           GAGGCAAAAGGCTGGGCTGAGGCCGAGGCTCTGTGGCTGTGGCCGGATACCAGGTCCTGT
+Chimp           GAGGCAAAAGGCTGGGCTGAGGCCGAGGCTCTGTGGCTGTGGCCGGACACCAGGTCCCGT
+                *********************************************** ********* **
+
+Human           GGTGGTGTGGGCAGGGCGCGCTCTCTCCTCTGAGCAGCCTGGGGCTGCGTGTGTGAACAG
+Chimp           GGTGGCGTGGGCAGGGCGCGCTCT---CTCTGAGCAGCCTGGGGCTGCGTGTGTTAACAG
+                ***** ******************   *************************** *****
+
+Human           AAACAGGCCTGCCGATTTGAAGATGGTTTGACCAAGTCTCCCAAAGCTGAAGAGAGGTCC
+Chimp           AAACAGGTCTGCCAATTTGAAGATGGTTTGACCGAGTCTCCCAAAGCTGAAGAGAGGTCC
+                ******* ***** ******************* **************************
+
+Human           CTGCCCATGTCCCCCGGGTGGCAATCCACAGACGCACCTGTGTCCATCAGACGGTATCGT
+Chimp           CTGCCCATGTCTCCCGGGTGGCAATCCACAGATGCACCTGTGTCCATCAGACGGTATCGT
+                *********** ******************** ***************************
+
+Human           TGATAGGGAGTCTGAAGCCACCCAGACGTGGTCTGTTCACGCCGTGGACACCACGGTCTG
+Chimp           TGATAGGGAGTCTGAAGCCACCCAGACGTGGTCTGTTCACGCCGTGGACACCACAGTCTG
+                ****************************************************** *****
+
+Human           AGGCAGACGGTTACAGCCACCGGCATAGGCGAATCTCAGCCAGAGAGAGTGAACTGGGAC
+Chimp           AGGCAGACGGTTGCAGCCACCGGCATAGGCGAATCTCAGCCAGAGAGAGTGAACTGGGAC
+                ************ ***********************************************
+
+Human           ACCATTCACGTGATGGGCCAGATGGGCTGGCAGCGGCTCGCTGGAGCCGTCCGGGTGGGA
+Chimp           ACCATTCACGTGATGGGCCAGATGGGCTGGCAGTGGCTCGCTGGAGCCATCCGGGTGGGA
+                ********************************* ************** ***********
+
+Human           ACGCTGTGTCTGTTGGTCTGGTGCTGCTTATGTGGCTGGTTCAGGTCTGTCATCCGTCAA
+Chimp           ACGCTGTGTCTGTTGGTCTGGTGCTGCTTATGTGGCTGGTTCAGGTCTGTCATCCCTCAA
+                ******************************************************* ****
+
+Human           CCTGCATATTTATCACTGGTGCATTTTCATGTATGTTGTACCTCAATTAAAACATTTTAG
+Chimp           CCTGCATATTTATCACTGGTGCATTTTCATGTATGTTGTACCTCAATTAAAACATTTTAG
+                ************************************************************
+
+Human           GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTGTGGGAGGCGGAGGCGGGAGGA
+Chimp           GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTGTGGGAGGTGGAGGCGGGAGGA
+                ********************************************** *************
+
+Human           TCATGAGGTCAGGAGATCAAGACCGTCCTGGCCAACATGGTGAAACCCCATCTCTACTAA
+Chimp           TCATGAGGTCAGGAGATCAAGACCGTCCTGGCCAACATGGTGAAACCCCATCTCTACTAA
+                ************************************************************
+
+Human           AAAAAATACAAAAATTTGCCGGGTGTGGCGGCACGCGCCTGTAGTTCCAGCTACTCAGGA
+Chimp           AAAAAATACAAAAATTTGCCGGGCGTGGCGGCACGCGCCTGTAGTCTCAGCTACTCAGGA
+                *********************** *********************  *************
+
+Human           GGCTGAGGTATGAGAATTACTTGAACCCAGTAGGCAGAGGCTACCGTGAGCCAAGATCAT
+Chimp           GGCTGAGGTATGAGAACTACTTGAACCCGGTAGGCAGAGGCTACCGTGAGCCGAGATCAT
+                **************** *********** *********************** *******
+
+Human           GCCACTGCACTCCAGCCTGGGTGACAGTGAGACTTCGTCTCAAAAAAAAAAAAAAAAAAA
+Chimp           GCCACTGCACTCCAGCCTGGGTGACAGTGAGACTTCGTCTC-------------------
+                *****************************************                   
+
+Human           TTAAAGCAGATGGGGTGTGGGGGCTCATCCCTGTAATCTCAGCATTTTGGGAGGCTGAGG
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           CGGACCGATCACCTGAGGTCAGGAGTTCAAGACCAGCCTGGTCAACATGGTGAAACCTCA
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           TCTCTACAAAAAATACAAAAAATAGCCAGGTGTGGTAGTGGGTGCCGTAGTCCCAGCTAG
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           TTGGGAGGCTGAGGCATAAGTATTGCTTGAATCCAGAAGGTGGAGGTTGCAGTGAGCCAA
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GAATGCACCACTACACTCCAGCCTGCGCGACAGAGTGAAACTGTCTCAAAATAAATAAAT
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           ACATAAAAATTATATGTATATATATATATATATATATTTTTTTTTTTTTGAGACTGTATC
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           TCTGTTTCCCAGGCTGGAGTGCAGTGGTGTGATCTCGGCTCACTGCAACCTCCGCCTCCT
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GGGTTCAAGCAATTCTGCCTCAGCCTCCCAAGTAGCTGGGATTATAGGCGTGCGCCACCA
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           CGCCTGGCTGATTTTTGTATTTTTAGTAGAGATGGAGTTTCACCATATTACCCAAGCTGG
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           TCTTGAACTCCTGACCTCATGATCCGCCTGCCTCAGCCTCCCAAAGTGCTGAGATTATAG
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GGGTGAGCCACTGTGCCCGGCAATAATAATTTTTTTTTTTTTTGAGACAGAGTTTTGCTC
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           TTGTTGCCCAGGCTGGAGTGCAATGGTGCAATCTCGGCTCACGGCAACCTCCGCCTCTCA
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           TGTTCAAGCTATTATCCTGACTCAGCTGGGATTACAGGCACCCACCACCACACCTGGCTG
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           ATTTTGGTATTTTTAGTAGAGACGGGGTTTCTCCATGTCGGCCAGGCTGGTCTCGAACTC
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           CTGACCTCAGGTGATCCACCCGCCTTGGGCTCCCAAAGTGCTGGGATTACAGCCCTGAGC
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           CACCATGGCTGACAATAATAAAAAATTTTAAAGCAAAACTAAAGATTTATAAATTGTAAA
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           ATGCGGTTGTAACAAGTATTTACTGTACCAGTAAATATGAAAAATATTAATGTCCTCACA
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           CACATGGAGGTGGCTTGTGAGTGGTGTGAGCATTTCATGGTCAGAGTTTGGCAGTTGGGC
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GAGAGACAGGATGGATTTTAACTCGAACATCGCAGACACAAAACTGAAAACCCTGATGCG
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GTGCCTGCACCGTTGCCTCCTTTCCTGCAGCTGTAAATGGGACGAGTAATTCCATCCCCC
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           TCCCGCTTCCACCCTTCAGCACAGACGCAGTCTTCAGCAAGGAAGTGCTGGGAACGCCCT
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GGAGTGAACCCAGGAAGATGCCTGCAGTGGGTGCCAGGGCCCCTCTCCACCGTCCCTGCT
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GGGCTTCGGGGCCACGCCCGACTGCTGTGAACGGCCTGCGGAGCACCACGTGCGACGGCT
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GGAGGCGAGAGGTCTGCCTTTGATGTGGCTGTTGGTGCAGGGCCTGTGGTGCCTTCCGCA
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GCGGAAATGGCGCGCCGCCCGGGGAGGGCGGGAGCAGCGTCCCGGGTGCCCCTGTGAGGA
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           TGAGCGACGAGATGACTGGAGGGTCCCTGAAGACCTCACTAGGGTGCCCCCAGCCGGTCC
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GCTCCCAGGAAGCGACACCCCCACAGCCCCAGGGCTGCAGCTGAGGGGGTCGCCACTCTG
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GCTGGGCGAGGCTGGGCCCTTGGGGGCAGGCGCCAGAGTGGCCTCAGGCTCTACAAGATG
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           CCTGAAAACACCAACCTCTCCAGGGCTCACTAGCATTGGACGCTTTCACGCTCTGCCCTG
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GCCGGAAGCCCCCTCACCCCGCGCGATGTGCAAACTCCTGCAGGGCTCACTCAGTTTCCA
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GAACTTTAATTATTGGAAAGTTCTCCCTGGTCCAGCCCCCAAATCTGCCGTGAACGTTGA
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           CAGCTGAGTTGCTGCTCCATGCGTGCTTTGGCTGAGAGCAGAGGGGACCCCTGTCCTCCC
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           TGAGCTGCTGACGAGGGGAGGGGTGAAGGGTGGGGCCTCTGGAGAGGGCAGGTCCCGGGG
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           AAGCTCCGGACTCCTAGAGGGGCGGCCAGGTGGGGGCCCTGGTGACCAGGACAGACTGTG
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GTGTTTTTTAACGTAAAGGAGATCCGCGGTGTGAGGGACCCCCTGGGTCCTGCACGCCGC
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           CTGGTGGCAGGCCGGGCCATGGTGGGTGCTCACGCCCCCGGCATGTGGCCGCCCTCAGTG
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GGAGGGGCTCTGAGAACGACTTTTTAAAACGCAGAGAAAAGCTCCATTCTTCCCAGGACC
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           TCAGCGCAGCCCTGGCCCAGGAAGGCAGGAGACAGAGGCCAGGACGGTCCAGAGGTGTCG
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           AAATGTCCTGGGGACCTGAGCAGCAGCCACCAGGGAAGAGGCAGGGAGGGAGCTGAGGAC
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           CAGGCTTGGTTGTGAGAATCCCTGAGCCCAGGCGGTAGATGCCAGGAGGTGTCTGGACTG
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GCTGGGCCATGCCTGGGCTGACCTGTCCAGCCAGGGAGAGGGTGTGAGGGCAGATCTGGG
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GGTGCCCAGATGGAAGGAGGCAGGCATGGGGGACACCCAAGGCCCCCTGGCAGCACCATG
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           AACTAAGCAGGACACCTGGAGGGGAAGAACTGTGGGGACCTGGAGGCCTCCAACGACTCC
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           TTCCTGCTTCCTGGACAGGACTATGGCTGTGCAGGGATCCCAGAGAAGACTTCTGGGCTC
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           CCTCAACTCCACCCCCACAGCCATCCCCCAGCTGGGGCTGGCTGCCAACCAGACAGGAGC
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           CCGGTGCCTGGAGGTGTCCATCTCTGACGGGCTCTTCCTCAGCCTGGGGCTGGTGAGCTT
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GGTGGAGAACGCGCTGGTGGTGGCCACCATCGCCAAGAACCGGAACCTGCACTCACCCAT
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GTACTGCTTCATCTGCTGCCTGGCCTTGTCGGACCTGCTGGTGAGCGGGAGCAACGTGCT
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GGAGACGGCCGTCATCCTCCTGCTGGAGGCCGGTGCACTGGTGGCCCGGGCTGCGGTGCT
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GCAGCAGCTGGACAATGTCATTGACGTGATCACCTGCAGCTCCATGCTGTCCAGCCTCTG
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           CTTCCTGGGCGCCATCGCCGTGGACCGCTACATCTCCATCTTCTACGCACTGCGCTACCA
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           CAGCATCGTGACCCTGCCGCGGGCGCGGCGAGCCGTTGCGGCCATCTGGGTGGCCAGTGT
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           CGTCTTCAGCACGCTCTTCATCGCCTACTACGACCACGTGGCCGTCCTGCTGTGCCTCGT
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GGTCTTCTTCCTGGCTATGCTGGTGCTCATGGCCGTGCTGTACGTCCACATGCTGGCCCG
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GGCCTGCCAGCACGCCCAGGGCATCGCCCGGCTCCACAAGAGGCAGCGCCCGGTCCACCA
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GGGCTTTGGCCTTAAAGGCGCTGTCACCCTCACCATCCTGCTGGGCATTTTCTTCCTCTG
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           CTGGGGCCCCTTCTTCCTGCATCTCACACTCATCGTCCTCTGCCCCGAGCACCCCACGTG
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           CGGCTGCATCTTCAAGAACTTCAACCTCTTTCTCGCCCTCATCATCTGCAATGCCATCAT
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           CGACCCCCTCATCTACGCCTTCCACAGCCAGGAGCTCCGCAGGACGCTCAAGGAGGTGCT
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GACATGCTCCTGGTGAGCGCGGTGCACGCGGCTTTAAGTGTGCTGGGCAGAGGGAGGTGG
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           TGATATTGTGTGGTCTGGTTCCTGTGTGACCCTGGGCAGTTCCTTACCTCCCTGGTCCCC
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GTTTGTCAAAGAGGATGGACTAAATGATCTCTGAAAGTGTTGAAGCGCGGACCCTTCTGG
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GTCCAGGGAGGGGTCCCTGCAAAACTCCAGGCAGGACTTCTCACCAGCAGTCGTGGGGAA
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           CGGAGGAGGACATGGGGAGGTTGTGGGGCCTCAGGCTCCGGGCACCAGGGGCCAACCTCA
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GGCTCCTAAAGAGACATTTTCCGCCCACTCCTGGGACACTCCGTCTGCTCCAATGACTGA
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GCAGCATCCACCCCACCCCATCTTTGCTGCCAGCTCTCAGGACCGTGCCCTCGTCAGCTG
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GGATGTGAAGTCTCTGGGTGGAAGTGTGTGCCAAGAGCTACTCCCACAGCAGCCCCAGGA
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GAAGGGGCTTTGTGACCAGAAAGCTTCATCCACAGCCTTGCAGCGGCTCCTGCAAAAGGA
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GGTGAAATCCCTGCCTCAGGCCAAGGGACCAGGTTTGCAGGAGCCCCCCTAGTGGTATGG
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GGCTGAGCCCTCCTGAGGGCCGGTTCTAAGGCTCAGACTGGGCACTGGGGCCTCAGCCTG
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           CTTTCCTGCAGCAGTCGCCCAAGCAGACAGCCCTGGCAAATGCCTGACTCAGTGACCAGT
+Chimp           ------------------------------------------------------------
+                                                                            
+
+Human           GCCTGTGAGCATGGGGCCAGGAAAGTCTGGTAATAAATGTGACTCAGCATCACCCAC
+Chimp           ---------------------------------------------------------
+                                                                         
