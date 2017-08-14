@@ -14,24 +14,18 @@ def score(allGenes, i, j):
     gene2 = allGenes[j]
     score = 0
     
-    m = 0
-    while m < len(gene1):
+    for m in range(0, len(gene1)):
         if gene1[m] != gene2[m]: # count polymorphisms
             score += 1
-        m += 1
     return score
 
 def allScores(allGenes):
     scores = {}
     
-    i = 0
-    while i < len(allGenes):
-        j = 0
-        while j < len(allGenes):
+    for i in range(0, len(allGenes)):
+        for j in range(0, len(allGenes)):
             if i != j:
                 scores[str(i) + "," + str(j)] = score(allGenes, i, j)
-            j += 1
-        i += 1
     return scores
 
 def correlate(allGenes):
@@ -62,11 +56,9 @@ def correlate(allGenes):
 def removeOverlaps(groups, fixedOverlaps):
     fixedOverlaps = False
     
-    i = 0
-    while i < len(groups):                                  # for each population
+    for i in range(0, len(groups)):                         # for each population
         # print "Comparing to:", groups[i] # DEBUG
-        j = 0
-        while j < len(groups):                              # look at all the other populations
+        for j in range(0, len(groups)):                     # look at all the other populations
             if groups[i] != groups[j]:                      # (not itself).
                 for person in groups[j]:                    # for each person in the each other population
                     if person in groups[i]:                 # if he's also in the initial population
@@ -75,15 +67,12 @@ def removeOverlaps(groups, fixedOverlaps):
                             groups[i].append(otherPerson)   # and add it to the first
                         groups[j] = []                      # then get rid of where the other population used to be
                         fixedOverlaps = True
-            j += 1
-        i += 1
     return groups, fixedOverlaps
 
 def removeRepeats(groups, fixedRepeats):
     # print groups # DEBUG
     fixedRepeats = False
-    i = 0
-    while i < len(groups):
+    for i in range(0, len(groups)):
         contents = []
         for person in groups[i]:
             if person not in contents:
@@ -92,19 +81,14 @@ def removeRepeats(groups, fixedRepeats):
                 fixedRepeats = True
         groups[i] = contents
         # print contents # DEBUG
-        i += 1
     return groups, fixedRepeats
 
 def format(groups):
-    i = 0
-    while i < len(groups):
+    for i in range(len(groups)):
         groups[i].sort()
-        i += 1
-    i = 0
-    while i < len(groups): # This had to be in a separate loop because removing elements changes the test case
+    for i in range(len(groups)): # This had to be in a separate loop because removing elements changes the test case
         if groups[i] == []:
             del groups[i]
-        i += 1
     groups.sort()
     return groups
 

@@ -37,12 +37,10 @@ def findLikelihoods(string):
 def findLocation(likelihoods):
     biggestLikelihood = float("-inf")
     biggestLikelihoodLocation = 0
-    i = 0
-    while i < len(likelihoods):
+    for i in range(len(likelihoods)):
         if likelihoods[i] > biggestLikelihood:
             biggestLikelihood = likelihoods[i]
             biggestLikelihoodLocation = i + 1
-        i += 1
     return biggestLikelihoodLocation
 
 input = "THHTHHHHHHTHTTHHTHTHHHHHTHTTTTHTHHTHTTHHHTHTTHHTTHHHTTHHTTTHTTTTTHHHTHHTTHTHTTHTHTTHTTTHTTTTHTHTTTTTTTHHTTTTHHHHHHTHTTHTHHHHHHHHHTHHHHHHHHHHHTHHHHHHHHHHHTHHHHHHHHHHHHHHHTHHHHHHHHHHHTHHHHHTHHHHHHHHHHHT"

@@ -21,12 +21,10 @@ elif length % 3 == 2:
 nucleotideConversion = {0: "A", 1: "T", 2: "C", 3: "G"}
 
 gene = ""
-count = 0
-while count < length:
+for count in range(0, length):
     nucleotide = random.randint(0,3)
     nucleotide = nucleotideConversion[nucleotide]
     gene += nucleotide
-    count += 1
 
 outfile = open("random-gene.txt", "w+")
 outfile.write(gene)
