@@ -1,6 +1,6 @@
 from Bio import SeqIO
 genome = list(SeqIO.parse("/home/maxwell.a.sherman/genomes/ecoli.fa", "fasta"))
-k = 3 # k-mers
+k = raw_input("Lengh of k for k-mers: ")
 
 kmers = {}
 for i in range(0, len(genome[0]) - k + 1):
