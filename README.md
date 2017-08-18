@@ -29,7 +29,7 @@ Programs written for teaching Coding4Medicine 2017
     - debruijn.py: Uses a Debruijn graph to assemble gene fragments
         - puzzle-out.txt: Output from debruijn.py
     - check.py: Makes sure output from debruijn.py is correct
-    - puzzle.csv / puzzle2.csv / nucl-puzzle.txt: Fragmented genes
+    - puzzle.csv/puzzle2.csv/nucl-puzzle.txt: Fragmented genes
     - **Kmer-Exercises/**: Smaller scripts for working with k-mers
         - k-mers.py: Counts the k-mers of a genome
             - k-mers.txt: Number of 35-mers in E.coli K12 genome
