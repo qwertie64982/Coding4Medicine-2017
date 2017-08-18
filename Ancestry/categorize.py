@@ -84,13 +84,17 @@ def removeRepeats(groups, fixedRepeats):
     return groups, fixedRepeats
 
 def format(groups):
+    # Sort numbers within groups
     for i in range(len(groups)):
         groups[i].sort()
-    for i in range(len(groups)): # This had to be in a separate loop because removing elements changes the test case
-        if groups[i] == []:
-            del groups[i]
-    groups.sort()
-    return groups
+    
+    # Remove empty elements and sort populations
+    groups2 = []
+    for i in range(len(groups)):
+        if groups[i] != []:
+            groups2.append(groups[i])
+    groups2.sort()
+    return groups2
 
 # MAIN
 
