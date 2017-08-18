@@ -13,6 +13,9 @@ Programs written for teaching Coding4Medicine 2017
     - random-gene.txt: Output file
 - biopython.py: A test program used for messing with the Biopython library
 - cointoss.py: Determines when a person tossing a coin has changed to a coin with different weights
+- n50.py: Calculates N50 value to score DNA sequence quality
+- n90.py: Calculates N90 value to score DNA sequence quality
+- tables.py: Says who sits with who
 - **Compare-Human-Chimp/**: Used for an experiment comparing human genes with chimp genes
     - MC1R.fa: Input gene for [human](https://www.ncbi.nlm.nih.gov/nucleotide/237681094) and [chimp](https://www.ncbi.nlm.nih.gov/nucleotide/15011300) (the chimp one doesn't match exactly, since I extracted it from a different genome)
     - MC1R.aln: Human and chimp MC1R genes aligned
@@ -23,7 +26,13 @@ Programs written for teaching Coding4Medicine 2017
     - random-edit.py: Makes user-specified random edits to an input genome
     - south-america/asia/africa/europe: Fake auto-generated genomes
 - **Jigsaw/**: Used for assembling a genome from pieces
-    - k-mers.py: Counts the k-mers of a genome
-    - length.py: Prints the length of a genome
-    - random-gene.fa: Random gene of about equal length to E. coli K12 genome
-    - ALDH.fa: Same as /ALDH.txt but FASTA format, for testing with k-mers.py
+    - debruijn.py: Uses a Debruijn graph to assemble gene fragments
+        - puzzle-out.txt: Output from debruijn.py
+    - check.py: Makes sure output from debruijn.py is correct
+    - puzzle.csv / puzzle2.csv / nucl-puzzle.txt: Fragmented genes
+    - **Kmer-Exercises/**: Smaller scripts for working with k-mers
+        - k-mers.py: Counts the k-mers of a genome
+            - k-mers.txt: Number of 35-mers in E.coli K12 genome
+        - length.py: Prints the length of a genome
+        - random-gene.fa: Random gene of about equal length to E. coli K12 genome
+        - ALDH.fa: Same as /ALDH.txt but FASTA format, for testing with k-mers.py
